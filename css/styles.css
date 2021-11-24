@@ -44,14 +44,14 @@ Colors:
 /******************************/
 
 #news_slide{
-	height:180px; 
+	height:200px; 
 	overflow:hidden;
 	}
 	.voxNews li{
 	margin-top:-10px;
 	float:left;
 	margin-left:5px;
-	padding:15px 0 5px;
+	padding:20px;
 	}
 	
 	* {
@@ -66,12 +66,12 @@ Colors:
 	  overflow: hidden;
 	}
 	
-	/* .products-inner { */
+	.products-inner {
 	/*   width: 1156px; */
-	 /*  position: relative; */
+	  position: relative;
 	/*   left: 0px; */
 	/*   transition: all; */
-	/* }
+	}
 	.product {
 	  display: inline;
 	}
@@ -79,7 +79,12 @@ Colors:
 	ul{
 		list-style-type: none;
 	}
- */
+
+	img.coopcomp{
+		width: 220px;
+		height: 150px;
+	}	
+
 body,
 html {
     width: 100%;
