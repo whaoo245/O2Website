@@ -66,12 +66,12 @@ Colors:
 	  overflow: hidden;
 	}
 	
-	.products-inner {
+	/* .products-inner { */
 	/*   width: 1156px; */
-	  position: relative;
+	 /*  position: relative; */
 	/*   left: 0px; */
 	/*   transition: all; */
-	}
+	/* }
 	.product {
 	  display: inline;
 	}
@@ -79,7 +79,7 @@ Colors:
 	ul{
 		list-style-type: none;
 	}
-
+ */
 body,
 html {
     width: 100%;
