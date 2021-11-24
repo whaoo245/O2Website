@@ -51,6 +51,8 @@ html {
 body, p {
 	color: #555; 
 	font: 400 1rem/1.625rem "Montserrat", sans-serif;
+	
+	
 }
 
 .p-large {
@@ -59,6 +61,7 @@ body, p {
 
 .p-small {
 	font: 400 0.875rem/1.5rem "Montserrat", sans-serif;
+	
 }
 
 .p-heading {
@@ -2139,7 +2142,7 @@ a:hover.back-to-top {
 
 	/* Instructor */
 	.basic-1 .text-container {
-		margin-top: 3.125rem;
+		margin-top: -1rem;
 		margin-left: 3.5rem;
 	}
 	/* end of instructor */
