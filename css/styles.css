@@ -80,9 +80,11 @@ Colors:
 		list-style-type: none;
 	}
 
-	img.coopcomp{
-		width: 220px;
-		height: 150px;
+	img#coopcomp{
+		width: 60%;
+		height: 60%;
+		text-align: center;
+ 		display: block;
 	}	
 
 body,
