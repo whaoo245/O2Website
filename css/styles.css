@@ -81,10 +81,9 @@ Colors:
 	}
 
 	img#coopcomp{
-		width: 60%;
-		height: 60%;
-		text-align: center;
- 		display: block;
+		margin: 13px 13px 13px 13px;
+		width: 150px;	
+		height: 120px;
 	}	
 
 body,
