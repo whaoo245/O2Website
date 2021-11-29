@@ -1299,6 +1299,7 @@ input[type='checkbox'] {
 
 .cards p {
 	text-align: center;
+	padding: 1rem;
 }
 
 .cards .card {
