@@ -82,8 +82,8 @@ Colors:
 
 	img#coopcomp{
 		margin: 13px 13px 13px 13px;
-		width: 150px;	
-		height: 120px;
+		width: 170px;	
+		height: 150px;
 	}	
 
 body,
@@ -2273,12 +2273,18 @@ a:hover.back-to-top {
 
 	.footer .footer-col.third {
 		margin-left: 2.75rem;
+		
 	}
 
 	.footer .footer-col.fourth {
 		margin-left: 1.5rem;
 	}
+
+	.footer-col.third{
+		padding-left: 5rem;
+	}
 	/* end of footer */
+
 
 
 	/* Extra Pages */
@@ -2296,5 +2302,6 @@ a:hover.back-to-top {
 		margin-left: 1.75rem;
 	}
 	/* end of extra pages */
+
 }
 /* end of min-width width 1200px */
