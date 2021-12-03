@@ -1315,27 +1315,10 @@ input[type='checkbox'] {
 	margin-bottom: 4rem;
 	margin-left: auto;
 	padding: 3rem 1.625rem 1.75rem 1.625rem;
-	
 	border: none;
 	background-color: #fff;
 	text-align: center;
 }
-
-.cards .card-2 {
-	max-width: 21rem;
-	margin-right: auto;
-	margin-bottom: 4rem;
-	margin-left: auto;
-	padding: 3rem 1.625rem 1.75rem 1.625rem;
-	
-	border: none;
-	background-color: #fff;
-	text-align: center;
-}
-
-
-
-
 
 .cards .card-image {
 	width: 6rem;
@@ -2080,13 +2063,6 @@ a:hover.back-to-top {
 		vertical-align: top;
 	}
 
-	.cards .card-2 {
-		display: inline-block;
-		width: 17.75rem;
-		max-width: 100%;
-		vertical-align: top;
-	}
-
 	.cards .card:nth-child(3n+2) {
 		margin-right: 2rem;
 		margin-left: 2rem;
@@ -2249,10 +2225,6 @@ a:hover.back-to-top {
 		width: 21rem;
 	}
 
-	.cards .card-2 {
-		width: 21rem;
-	}
-
 	.cards .card:nth-child(3n+2) {
 		margin-right: 2.875rem;
 		margin-left: 2.875rem;
@@ -2333,34 +2305,3 @@ a:hover.back-to-top {
 
 }
 /* end of min-width width 1200px */
-
-@media (max-width: 990px) {
-	.cards .card-2 {
-		display: inline-block;
-		width : 21rem;
-		max-width: 100%;
-		vertical-align: top;
-		margin-right: 27%;
-	}
-}
-
-@media (max-width: 768px) {
-	.cards .card-2 {
-		display: inline-block;
-		width : 21rem;
-		max-width: 100%;
-		vertical-align: top;
-		margin-right: 19.5%;
-	}
-}
-
-
-@media (max-width: 576px) {
-	.cards .card-2 {
-		display: inline-block;
-		width : 21rem;
-		max-width: 100%;
-		vertical-align: top;
-		margin-right: auto;
-	}
-}
