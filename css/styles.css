@@ -1647,6 +1647,9 @@ input[type='checkbox'] {
 	color: #FF0000;
 } 
 
+.footer .fab.fa-whatsapp:hover{
+    color: green;
+}
 
 /*************************/
 /*     18. Copyright     */
